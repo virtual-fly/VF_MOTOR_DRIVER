@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "VFComponents")(type "KiCad")(uri "${KIPRJMOD}/Library/VFComponents.pretty")(options "")(descr ""))
+  (lib (name "Inductor_SMD_Wurth")(type "KiCad")(uri "${KIPRJMOD}/Library/Inductor_SMD_Wurth.pretty")(options "")(descr "")(disabled))
+)
