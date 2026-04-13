@@ -35,14 +35,14 @@ If you have something to share, please follow the process below.
 
 ---
 
-## 🔀 Merge Request Workflow (GitLab)
+## 🔀 Merge Request Workflow (GitHub)
 
 1. **Fork this repository** on GitLab.
 2. Create a new branch for your change:
    ```bash
    git checkout -b my-contribution
    ```
-3. Make your changes (using **KiCad 6 or newer**).
+3. Make your changes (using **KiCad 9 or newer**).
 4. Commit and push your changes to your fork.
 5. Open a **Merge Request** from your fork to this repository.
 
@@ -60,7 +60,7 @@ We will review your submission and reply as soon as possible.
 
 ## 📏 Design Guidelines
 
-- Design using **KiCad 6 or newer**.
+- Design using **KiCad 9 or newer**.
 - Maintain clarity and modularity in schematics.
 - Use SI units and clear annotations.
 - Prefer generic, widely available components.
