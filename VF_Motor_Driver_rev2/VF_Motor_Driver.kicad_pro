@@ -90,7 +90,7 @@
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "ignore",
+        "lib_footprint_mismatch": "warning",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
@@ -529,7 +529,7 @@
       "plot": "OutputFiles/Gerbers/",
       "pos_files": "OutputFiles/Assembly/",
       "specctra_dsn": "",
-      "step": "OutputFiles/3D/VF_Motor_Driver_rev2.1.step",
+      "step": "OutputFiles/3D/VF_Motor_Driver_rev3.step",
       "svg": "",
       "vrml": ""
     },
@@ -635,7 +635,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "ngspice": {
       "fix_include_paths": true,
       "fix_passive_vals": false,
